@@ -1,0 +1,10 @@
+{
+    "majority_classifier": {
+        "accuracy": 0.2631578947368421,
+        "weighted_f1": 0.10964912280701755
+    },
+    "tfidf_logistic_regression": {
+        "accuracy": 0.7368421052631579,
+        "weighted_f1": 0.707218229592913
+    }
+}
